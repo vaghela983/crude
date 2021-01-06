@@ -12,4 +12,4 @@ steps of run projects
  8)node index.js
  9)import the .sql file in mysql database
 
-NOTE if react-Script error so change react script version.
+NOTE if react-Script error so change react script version. 
