@@ -1,7 +1,7 @@
-# crude
+# Crude(React/Node/MySQL)
 * crude project in perform a crude opration in product table using reactJS and nodeJS.
 
-steps of run projects
+* steps of run projects
  1) download zip file
  2) cmd in go to the folder front using cd commande 
  3) run the npm i
